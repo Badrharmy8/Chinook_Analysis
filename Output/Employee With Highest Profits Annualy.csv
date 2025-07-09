@@ -1,0 +1,21 @@
+﻿Year,EmployeeId,FirstName,LastName,Title,Profit
+2025,4,Margaret,Park,Sales Support Agent,168.30
+2025,3,Jane,Peacock,Sales Support Agent,156.43
+2025,5,Steve,Johnson,Sales Support Agent,125.85
+2024,4,Margaret,Park,Sales Support Agent,197.20
+2024,3,Jane,Peacock,Sales Support Agent,146.60
+2024,5,Steve,Johnson,Sales Support Agent,133.73
+2023,3,Jane,Peacock,Sales Support Agent,184.34
+2023,5,Steve,Johnson,Sales Support Agent,159.47
+2023,4,Margaret,Park,Sales Support Agent,125.77
+2022,3,Jane,Peacock,Sales Support Agent,221.92
+2022,5,Steve,Johnson,Sales Support Agent,136.77
+2022,4,Margaret,Park,Sales Support Agent,122.76
+2021,5,Steve,Johnson,Sales Support Agent,164.34
+2021,4,Margaret,Park,Sales Support Agent,161.37
+2021,3,Jane,Peacock,Sales Support Agent,123.75
+NULL,1,Andrew,Adams,General Manager,0.00
+NULL,2,Nancy,Edwards,Sales Manager,0.00
+NULL,6,Michael,Mitchell,IT Manager,0.00
+NULL,7,Robert,King,IT Staff,0.00
+NULL,8,Laura,Callahan,IT Staff,0.00
