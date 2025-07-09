@@ -16,35 +16,35 @@ Analyze yearly revenue trends.
 
 Determine the most popular media formats and genres.
 
-### Chinook-SQL-Analysis/
-│
-├── 📁 Code /             # Contains categorized SQL scripts
-│   ├── Customer_Analysis.sql
-│   ├── Employee_Analysis.sql
-│   ├── Sales_Analysis.sql
-│
-├── 📁 Output/                 # Contains results of SQL queries
-│   ├── 📁 Customer_Analysis/
-│   │   ├── Composer With Highest Purchases.csv
-│   │   ├── Customer With Highest Invoices.csv
-│   │   ├── Customer With Highest Profits.csv
-│   │   ├── Popular Media Type.csv
-│   │   ├── Popular Music Genre.csv
-│   │
-│   ├── 📁 Employee_Analysis/
-│   │   ├── Employee With Highest Customers.csv
-│   │   ├── Employee With Highest Invoices.csv
-│   │   ├── Employee With Highest Profits Annually.csv
-│   │   ├── Employee With Highest Profits.csv
-│   │
-│   ├── 📁 Sales_Analysis/
-│   │    ├── Annually Popular Track.csv
-│   │    ├── Annually Profits.csv
-│   │    ├── Popular Album.csv
-│   │    ├── Popular Artist.csv
-│   │    └── Popular Track.csv
-│
-└── README.md
+### Chinook-SQL-Analysis
+  ## 📁Code               (Contains categorized SQL scripts)
+    Customer_Analysis.sql
+    Employee_Analysis.sql
+    Sales_Analysis.sql
+
+ ## 📁Output             (Contains results of SQL queries)
+  ## 📁Customer_Analysis
+      Composer With Highest Purchases.csv
+      Customer With Highest Invoices.csv
+      Customer With Highest Profits.csv
+      Popular Media Type.csv
+      Popular Music Genre.csv.
+
+  ## 📁Employee_Analysis
+      Employee With Highest Customers.csv
+      Employee With Highest Invoices.csv
+      Employee With Highest Profits Annually.csv
+      Employee With Highest Profits.csv
+
+  ## 📁Sales_Analysis
+      Annually Popular Track.csv
+      Annually Profits.csv
+      Popular Album.csv
+      Popular Artist.csv
+      Popular Track.csv
+
+ ## README.md
+
 
 ## 📝 Questions Addressed
 
