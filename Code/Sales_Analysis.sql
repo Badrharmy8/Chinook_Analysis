@@ -1,3 +1,4 @@
+-- Sales Analysis
 -- Which artist has the highest total track sales?
 SELECT AR.Name,
 	SUM(IL.Quantity) AS 'Number Of Purchases'
